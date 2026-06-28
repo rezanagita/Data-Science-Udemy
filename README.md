@@ -102,3 +102,5 @@ grafik dibawah menunjukkan bahwa penggunaan algoritma random forest untuk mempre
   1. Melakukan hyperparameter tuning untuk meningkatkan akurasi model.
   2. Mencoba pendekatan ensemble learning untuk menggabungkan hasil dari beberapa model.
 
+## Certificate Of Compliment
+<img width="1600" height="1190" alt="sertifikat" src="https://github.com/user-attachments/assets/0463cf2f-4a8e-4fa4-ad91-90cff672e15d" />
